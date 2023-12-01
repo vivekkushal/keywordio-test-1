@@ -1,0 +1,16 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  --background-color: #fafafa;
+  --nav-height: 64px;
+  --form-col-gap: 20px;
+
+  /* colors */
+  --border-1: #dddddd;
+  --heading-1: #323c46;
+  --bg-color: #fafafa;
+}

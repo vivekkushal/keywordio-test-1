@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border-1);
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border-1);
+  color: var(--heading-1);
+}
+
+.others {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}

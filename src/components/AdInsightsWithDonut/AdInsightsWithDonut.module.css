@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  border: 1px solid var(--border-1);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.toggle {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+}
